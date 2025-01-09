@@ -1,0 +1,17 @@
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/MonthyRevenue.GeneratedMSBuildEditorConfig.editorconfig
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/MonthyRevenue.AssemblyInfoInputs.cache
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/MonthyRevenue.AssemblyInfo.cs
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/MonthyRevenue.csproj.CoreCompileInputs.cache
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/bin/Debug/net8.0/MonthyRevenue
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/bin/Debug/net8.0/MonthyRevenue.deps.json
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/bin/Debug/net8.0/MonthyRevenue.runtimeconfig.json
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/bin/Debug/net8.0/MonthyRevenue.dll
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/bin/Debug/net8.0/MonthyRevenue.pdb
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/MonthyRevenue.csproj.AssemblyReference.cache
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/MonthyRe.BE2C8195.Up2Date
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/MonthyRevenue.dll
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/refint/MonthyRevenue.dll
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/MonthyRevenue.pdb
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/MonthyRevenue.genruntimeconfig.cache
+/home/juhffelix/MonthlyRevenue/MonthyRevenue/obj/Debug/net8.0/ref/MonthyRevenue.dll

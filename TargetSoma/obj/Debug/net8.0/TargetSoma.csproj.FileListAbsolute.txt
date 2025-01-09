@@ -1,0 +1,14 @@
+/home/juhffelix/TargetSoma/bin/Debug/net8.0/TargetSoma
+/home/juhffelix/TargetSoma/bin/Debug/net8.0/TargetSoma.deps.json
+/home/juhffelix/TargetSoma/bin/Debug/net8.0/TargetSoma.runtimeconfig.json
+/home/juhffelix/TargetSoma/bin/Debug/net8.0/TargetSoma.dll
+/home/juhffelix/TargetSoma/bin/Debug/net8.0/TargetSoma.pdb
+/home/juhffelix/TargetSoma/obj/Debug/net8.0/TargetSoma.GeneratedMSBuildEditorConfig.editorconfig
+/home/juhffelix/TargetSoma/obj/Debug/net8.0/TargetSoma.AssemblyInfoInputs.cache
+/home/juhffelix/TargetSoma/obj/Debug/net8.0/TargetSoma.AssemblyInfo.cs
+/home/juhffelix/TargetSoma/obj/Debug/net8.0/TargetSoma.csproj.CoreCompileInputs.cache
+/home/juhffelix/TargetSoma/obj/Debug/net8.0/TargetSoma.dll
+/home/juhffelix/TargetSoma/obj/Debug/net8.0/refint/TargetSoma.dll
+/home/juhffelix/TargetSoma/obj/Debug/net8.0/TargetSoma.pdb
+/home/juhffelix/TargetSoma/obj/Debug/net8.0/TargetSoma.genruntimeconfig.cache
+/home/juhffelix/TargetSoma/obj/Debug/net8.0/ref/TargetSoma.dll
