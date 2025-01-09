@@ -29,16 +29,18 @@ O desafio técnico envolve a resolução de problemas utilizando lógica de prog
 
 Cada problema proposto foi resolvido e separado em diferentes projetos dentro deste repositório.
 
-Como Executar
+---
+
+## Como Executar
 Clone o repositório:
-git clone 
-Navegue até a pasta do projeto desejado.
-Abra o projeto no Visual Studio ou em outra IDE compatível.
-Execute o programa para testar cada solução.
+- git clone 
+- Navegue até a pasta do projeto desejado.
+- Abra o projeto no Visual Studio ou em outra IDE compatível.
+- Execute o programa para testar cada solução.
 
 ---
 
-Tecnologias Utilizadas
-C#
-.NET Framework/Core
-Processamento de arquivos JSON/XML.
+## Tecnologias Utilizadas
+- C#
+- .NET Framework/Core
+- Processamento de arquivos JSON/XML.
